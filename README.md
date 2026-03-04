@@ -1,5 +1,16 @@
 # AQI-Agent
 
+# AI Group Submission
+
+## Team Members
+
+1. M. Goutham – SE24UCSE243  
+2. G. Varun – SE24UCSE242 
+3. V. Charan Adithya – SE24UCSE255  
+4. Siripella Rishi Sri Bhargav – SE24UCSE038 
+
+---
+
 AQI-Agent is a simple Python-based air quality monitoring tool that:
 
 - Fetches PM2.5 pollutant data from the OpenWeatherMap Air Pollution API  
