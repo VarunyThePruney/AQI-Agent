@@ -7,7 +7,7 @@
 1. M. Goutham – SE24UCSE243  
 2. G. Varun – SE24UCSE242 
 3. V. Charan Adithya – SE24UCSE255  
-4. Siripella Rishi Sri Bhargav – SE24UCSE038 
+4. Siripella Rishi – SE24UCSE038 
 
 ---
 
